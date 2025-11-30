@@ -1,0 +1,185 @@
+HTTrack3.49-6 launched on Sat, 29 Nov 2025 18:27:54 at https://www.ciahn.cl/
+(httrack https://www.ciahn.cl/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:27:56	Warning: 	Note: due to https://www.ciahn.cl remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+18:35:00	Error: 	"Not Found" (404) at link https://www.ciahn.cl/wp-content/plugins/arlo-core/shortcode/assets/css/owl.video.play.png (from https://www.ciahn.cl/wp-content/plugins/arlo-core/shortcode/assets/css/owl-carousel.css?ver=4.0)
+18:35:00	Error: 	"Not Found" (404) at link https://www.ciahn.cl/wp-content/themes/arlo/framework/img/vimeo-play.png (from https://www.ciahn.cl/wp-content/themes/arlo/framework/css/lightgallery.css?ver=ver_4.0)
+18:35:00	Error: 	"Not Found" (404) at link https://www.ciahn.cl/wp-content/themes/arlo/framework/img/video-play.png (from https://www.ciahn.cl/wp-content/themes/arlo/framework/css/lightgallery.css?ver=ver_4.0)
+18:35:00	Error: 	"Not Found" (404) at link https://www.ciahn.cl/wp-content/themes/arlo/framework/img/youtube-play.png (from https://www.ciahn.cl/wp-content/themes/arlo/framework/css/lightgallery.css?ver=ver_4.0)
+18:35:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1595
+18:35:00	Warning: 	File has moved from https://www.ciahn.cl/?p=1595 to https://www.ciahn.cl/quienes-somos/
+18:35:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=277
+18:35:00	Warning: 	File has moved from https://www.ciahn.cl/?p=277 to https://www.ciahn.cl/paleo-atacama/
+18:35:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2
+18:35:00	Warning: 	File has moved from https://www.ciahn.cl/?p=2 to https://www.ciahn.cl/iniciativas/
+18:35:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=847
+18:35:00	Warning: 	File has moved from https://www.ciahn.cl/?p=847 to https://www.ciahn.cl/noticias/
+18:36:33	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=190
+18:36:33	Warning: 	File has moved from https://www.ciahn.cl/?p=190 to https://www.ciahn.cl/contacto/
+18:36:33	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3738
+18:36:33	Warning: 	File has moved from https://www.ciahn.cl/?p=3738 to https://www.ciahn.cl/informes-transparencia/
+18:36:33	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1046
+18:36:33	Warning: 	File has moved from https://www.ciahn.cl/?p=1046 to https://www.ciahn.cl/centro-de-investigacion-avanzada-de-la-historia-natural/
+18:36:33	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1217
+18:36:33	Warning: 	File has moved from https://www.ciahn.cl/?p=1217 to https://www.ciahn.cl/parque-paleontologico-los-dedos/
+18:36:33	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1228
+18:36:33	Warning: 	File has moved from https://www.ciahn.cl/?p=1228 to https://www.ciahn.cl/museo-paleontologico/
+18:36:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.ciahn.cl/?p=1236 (from https://www.ciahn.cl/geoparque-atacama/)
+18:36:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.ciahn.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ciahn.cl%2Fgeoparque-atacama%2F&format=xml (from https://www.ciahn.cl/geoparque-atacama/)
+18:36:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.ciahn.cl/wp-json/wp/v2/pages/1244 (from https://www.ciahn.cl/centros-locales-de-interpretacion-patrimonial-clip/)
+18:36:34	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1244
+18:36:34	Warning: 	File has moved from https://www.ciahn.cl/?p=1244 to https://www.ciahn.cl/centros-locales-de-interpretacion-patrimonial-clip/
+18:36:34	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1252
+18:36:34	Warning: 	File has moved from https://www.ciahn.cl/?p=1252 to https://www.ciahn.cl/academia-juvenil-de-ciencias-de-atacama/
+18:36:34	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4441
+18:36:34	Warning: 	File has moved from https://www.ciahn.cl/?p=4441 to https://www.ciahn.cl/paleontologa-de-ciahn-atacama-comparte-experiencia-local-en-el-museo-nacional-de-qatar/
+18:36:34	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/paleontologa-de-ciahn-atacama-comparte-experiencia-local-en-el-museo-nacional-de-qatar/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/paleontologa-de-ciahn-atacama-comparte-experiencia-local-en-el-museo-nacional-de-qatar/)
+18:36:50	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4417
+18:36:50	Warning: 	File has moved from https://www.ciahn.cl/?p=4417 to https://www.ciahn.cl/hallazgo-de-nuevo-tiburon-fosil-rinde-homenaje-a-paleontologa-y-a-popular-personaje-de-manga-japones/
+18:36:50	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/hallazgo-de-nuevo-tiburon-fosil-rinde-homenaje-a-paleontologa-y-a-popular-personaje-de-manga-japones/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/hallazgo-de-nuevo-tiburon-fosil-rinde-homenaje-a-paleontologa-y-a-popular-personaje-de-manga-japones/)
+18:37:44	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4386
+18:37:44	Warning: 	File has moved from https://www.ciahn.cl/?p=4386 to https://www.ciahn.cl/atacama-fortalece-la-conexion-entre-fosiles-y-futuro-ciahn-participa-en-living-data-2025-en-bogota/
+18:37:44	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/atacama-fortalece-la-conexion-entre-fosiles-y-futuro-ciahn-participa-en-living-data-2025-en-bogota/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/atacama-fortalece-la-conexion-entre-fosiles-y-futuro-ciahn-participa-en-living-data-2025-en-bogota/)
+18:37:44	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2025
+18:37:44	Warning: 	File has moved from https://www.ciahn.cl/?p=2025 to https://www.ciahn.cl/en/about-us/
+18:37:44	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2132
+18:37:44	Warning: 	File has moved from https://www.ciahn.cl/?p=2132 to https://www.ciahn.cl/en/paleo-atacama-2/
+18:37:44	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2229
+18:37:44	Warning: 	File has moved from https://www.ciahn.cl/?p=2229 to https://www.ciahn.cl/en/ciahn-atacamas-endeavors/
+18:37:44	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2373
+18:37:44	Warning: 	File has moved from https://www.ciahn.cl/?p=2373 to https://www.ciahn.cl/en/news-2/
+18:37:55	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2295
+18:37:55	Warning: 	File has moved from https://www.ciahn.cl/?p=2295 to https://www.ciahn.cl/en/contact/
+18:37:55	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2076
+18:37:55	Warning: 	File has moved from https://www.ciahn.cl/?p=2076 to https://www.ciahn.cl/en/advanced-research-center-on-natural-history/
+18:37:55	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2118
+18:37:55	Warning: 	File has moved from https://www.ciahn.cl/?p=2118 to https://www.ciahn.cl/en/los-dedos-paleontological-park/
+18:37:55	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2238
+18:37:55	Warning: 	File has moved from https://www.ciahn.cl/?p=2238 to https://www.ciahn.cl/en/paleontological-museum/
+18:37:55	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2110
+18:37:55	Warning: 	File has moved from https://www.ciahn.cl/?p=2110 to https://www.ciahn.cl/en/atacama-geopark/
+18:37:55	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2102
+18:37:55	Warning: 	File has moved from https://www.ciahn.cl/?p=2102 to https://www.ciahn.cl/en/local-centers-for-heritage-interpretation-clip-2/
+18:37:55	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2038
+18:37:55	Warning: 	File has moved from https://www.ciahn.cl/?p=2038 to https://www.ciahn.cl/en/atacamas-junior-academy-of-sciences/
+18:37:55	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2409
+18:37:55	Warning: 	File has moved from https://www.ciahn.cl/?p=2409 to https://www.ciahn.cl/en/high-value-paleontological-patrimony-will-be-preserved-and-studied-in-the-region-of-atacama/
+18:37:55	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/en/high-value-paleontological-patrimony-will-be-preserved-and-studied-in-the-region-of-atacama/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/en/high-value-paleontological-patrimony-will-be-preserved-and-studied-in-the-region-of-atacama/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2378
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=2378 to https://www.ciahn.cl/en/regional-council-supports-paleontological-corporation-of-atacama/
+18:38:00	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/en/regional-council-supports-paleontological-corporation-of-atacama/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/en/regional-council-supports-paleontological-corporation-of-atacama/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2367
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=2367 to https://www.ciahn.cl/en/a-2-6-million-year-tooth-of-a-sawshark-reopened-the-tropical-past-of-chile/
+18:38:00	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/en/a-2-6-million-year-tooth-of-a-sawshark-reopened-the-tropical-past-of-chile/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/en/a-2-6-million-year-tooth-of-a-sawshark-reopened-the-tropical-past-of-chile/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4351
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4351 to https://www.ciahn.cl/esqueleto-fosil-hallado-en-atacama-replantea-la-evolucion-de-los-perezosos-marinos-en-el-hemisferio-sur/
+18:38:00	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/esqueleto-fosil-hallado-en-atacama-replantea-la-evolucion-de-los-perezosos-marinos-en-el-hemisferio-sur/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/esqueleto-fosil-hallado-en-atacama-replantea-la-evolucion-de-los-perezosos-marinos-en-el-hemisferio-sur/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4317
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4317 to https://www.ciahn.cl/investigadores-clave-en-estudio-del-yacimiento-paleontologico-formacion-bahia-inglesa-se-reunieron-en-caldera/
+18:38:00	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/investigadores-clave-en-estudio-del-yacimiento-paleontologico-formacion-bahia-inglesa-se-reunieron-en-caldera/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/investigadores-clave-en-estudio-del-yacimiento-paleontologico-formacion-bahia-inglesa-se-reunieron-en-caldera/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4306
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4306 to https://www.ciahn.cl/ciahn-atacama-conmemora-40-anos-de-la-formacion-bahia-inglesa-con-seminario-internacional/
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4270
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4270 to https://www.ciahn.cl/equipo-cientifico-internacional-descubrio-oasis-de-plantas-fosiles-de-hace-260-millones-de-anos/
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4256
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4256 to https://www.ciahn.cl/documental-sobre-paleontologia-en-el-desierto-de-atacama-estrena-este-jueves-en-television-abierta/
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4235
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4235 to https://www.ciahn.cl/ganadores-de-concurso-de-fotografia-y-dibujo-del-mes-de-patrimonio-fueron-premiados-en-gobierno-regional/
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4140
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4140 to https://www.ciahn.cl/ciahn-atacama-invita-a-concurso-de-fotografia-y-dibujo-para-celebrar-el-mes-de-patrimonio/
+18:38:00	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/ciahn-atacama-invita-a-concurso-de-fotografia-y-dibujo-para-celebrar-el-mes-de-patrimonio/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/ciahn-atacama-invita-a-concurso-de-fotografia-y-dibujo-para-celebrar-el-mes-de-patrimonio/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4116
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4116 to https://www.ciahn.cl/fundacion-ruinas-de-huanchaca-y-ciahn-atacama-firman-convenio-para-fortalecer-la-investigacion-paleontologica/
+18:38:00	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/fundacion-ruinas-de-huanchaca-y-ciahn-atacama-firman-convenio-para-fortalecer-la-investigacion-paleontologica/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/fundacion-ruinas-de-huanchaca-y-ciahn-atacama-firman-convenio-para-fortalecer-la-investigacion-paleontologica/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4109
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4109 to https://www.ciahn.cl/colonialismo-cientifico-y-brechas-de-genero-invisibilizan-la-investigacion-paleontologica-latinoamericana/
+18:38:00	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/colonialismo-cientifico-y-brechas-de-genero-invisibilizan-la-investigacion-paleontologica-latinoamericana/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/colonialismo-cientifico-y-brechas-de-genero-invisibilizan-la-investigacion-paleontologica-latinoamericana/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4050
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4050 to https://www.ciahn.cl/fin-de-semana-largo-mas-de-600-personas-visitaron-el-parque-paleontologico-los-dedos-2/
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4026
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4026 to https://www.ciahn.cl/congreso-futuro-2025-aterriza-en-la-region-bajo-el-lema-que-atacama-queremos-ser/
+18:38:00	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/congreso-futuro-2025-aterriza-en-la-region-bajo-el-lema-que-atacama-queremos-ser/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/congreso-futuro-2025-aterriza-en-la-region-bajo-el-lema-que-atacama-queremos-ser/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=4010
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=4010 to https://www.ciahn.cl/fin-de-semana-largo-mas-de-600-personas-visitaron-el-parque-paleontologico-los-dedos/
+18:38:00	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/fin-de-semana-largo-mas-de-600-personas-visitaron-el-parque-paleontologico-los-dedos/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/fin-de-semana-largo-mas-de-600-personas-visitaron-el-parque-paleontologico-los-dedos/)
+18:38:00	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1236
+18:38:00	Warning: 	File has moved from https://www.ciahn.cl/?p=1236 to https://www.ciahn.cl/geoparque-atacama/
+18:39:06	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3371
+18:39:06	Warning: 	File has moved from https://www.ciahn.cl/?p=3371 to https://www.ciahn.cl/investigadora-de-ciahn-atacama-fue-finalista-en-concurso-de-prestigiosa-revista-cientifica-britanica-2/
+18:39:06	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3352
+18:39:06	Warning: 	File has moved from https://www.ciahn.cl/?p=3352 to https://www.ciahn.cl/investigadora-de-ciahn-atacama-fue-finalista-en-concurso-de-prestigiosa-revista-cientifica-britanica/
+18:39:06	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3316
+18:39:06	Warning: 	File has moved from https://www.ciahn.cl/?p=3316 to https://www.ciahn.cl/mas-de-15-mil-personas-visitaron-congreso-futuro-en-tu-comuna-en-la-provincia-de-huasco/
+18:39:06	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3232
+18:39:06	Warning: 	File has moved from https://www.ciahn.cl/?p=3232 to https://www.ciahn.cl/congreso-futuro-en-tu-comuna-aterrizara-en-provincia-del-huasco-con-entretenida-caravana-de-la-ciencia/
+18:39:06	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2870
+18:39:06	Warning: 	File has moved from https://www.ciahn.cl/?p=2870 to https://www.ciahn.cl/con-gran-exito-concluye-la-participacion-de-ciahn-atacama-en-puerto-de-ideas-antofagasta-2023/
+18:39:06	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/con-gran-exito-concluye-la-participacion-de-ciahn-atacama-en-puerto-de-ideas-antofagasta-2023/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/con-gran-exito-concluye-la-participacion-de-ciahn-atacama-en-puerto-de-ideas-antofagasta-2023/)
+18:39:06	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2776
+18:39:06	Warning: 	File has moved from https://www.ciahn.cl/?p=2776 to https://www.ciahn.cl/corporacion-regional-de-paleontologia-ciahn-atacama-suscribe-convenio-con-la-direccion-regional-de-sernatur-para-el-fomento-del-geoturismo-en-atacama/
+18:39:06	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/corporacion-regional-de-paleontologia-ciahn-atacama-suscribe-convenio-con-la-direccion-regional-de-sernatur-para-el-fomento-del-geoturismo-en-atacama/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/corporacion-regional-de-paleontologia-ciahn-atacama-suscribe-convenio-con-la-direccion-regional-de-sernatur-para-el-fomento-del-geoturismo-en-atacama/)
+18:39:06	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2774
+18:39:06	Warning: 	File has moved from https://www.ciahn.cl/?p=2774 to https://www.ciahn.cl/ciahn-en-puerto-de-ideas-antofagasta-2023/
+18:39:06	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/ciahn-en-puerto-de-ideas-antofagasta-2023/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/ciahn-en-puerto-de-ideas-antofagasta-2023/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2352
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=2352 to https://www.ciahn.cl/en/whales-marine-sloths-megalodons-the-endless-fossil-record-of-the-paleontological-park-of-caldera-will-be-preserved/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/en/whales-marine-sloths-megalodons-the-endless-fossil-record-of-the-paleontological-park-of-caldera-will-be-preserved/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/en/whales-marine-sloths-megalodons-the-endless-fossil-record-of-the-paleontological-park-of-caldera-will-be-preserved/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2346
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=2346 to https://www.ciahn.cl/en/minister-of-science-visits-cultural-center-in-caldera/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/en/minister-of-science-visits-cultural-center-in-caldera/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/en/minister-of-science-visits-cultural-center-in-caldera/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=938
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=938 to https://www.ciahn.cl/core-apoya-corporacion-paleontologica-de-atacama/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/core-apoya-corporacion-paleontologica-de-atacama/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/core-apoya-corporacion-paleontologica-de-atacama/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3950
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3950 to https://www.ciahn.cl/atacama-se-prepara-para-recibir-al-iii-congreso-chileno-de-paleontologia/
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3934
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3934 to https://www.ciahn.cl/investigadora-de-ciahn-atacama-integra-comite-cientifico-internacional-antartico/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/investigadora-de-ciahn-atacama-integra-comite-cientifico-internacional-antartico/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/investigadora-de-ciahn-atacama-integra-comite-cientifico-internacional-antartico/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3865
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3865 to https://www.ciahn.cl/dia-internacional-de-los-museos-ofrecera-entretenidas-actividades-en-torno-a-la-paleontologia/
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3894
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3894 to https://www.ciahn.cl/guia-del-parque-paleontologico-los-dedos-es-nombrada-por-unesco-como-embajadora-del-ano-en-geociencias/
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3906
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3906 to https://www.ciahn.cl/investigadora-de-ciahn-atacama-regresa-de-exitosa-expedicion-cientifica-a-la-antartica/
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3840
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3840 to https://www.ciahn.cl/congreso-futuro-vuelve-a-la-region-este-2024-abordando-los-principales-desafios-cientificos-para-atacama/
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3820
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3820 to https://www.ciahn.cl/publico-de-todas-las-edades-disfruto-con-actividades-de-congreso-futuro-en-la-provincia-de-chanaral/
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3716
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3716 to https://www.ciahn.cl/investigadora-de-ciahn-atacama-estudia-incendios-que-asolaron-la-antartica-en-la-era-de-los-dinosaurios/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/investigadora-de-ciahn-atacama-estudia-incendios-que-asolaron-la-antartica-en-la-era-de-los-dinosaurios/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/investigadora-de-ciahn-atacama-estudia-incendios-que-asolaron-la-antartica-en-la-era-de-los-dinosaurios/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3697
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3697 to https://www.ciahn.cl/estudio-documenta-existencia-de-tiburones-sardinero-y-pejezorro-en-costa-de-chile-desde-hace-7-millones-de-anos/
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=3673
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=3673 to https://www.ciahn.cl/hoy-abre-sus-puertas-maravillosa-muestra-arqueologica-sobre-la-cultura-chinchorro-en-chanaral/
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2603
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=2603 to https://www.ciahn.cl/importante-participacion-de-ciahn-atacama-en-congreso-chileno-de-paleontologia-2022-en-san-vicente-de-tagua-tagua/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/importante-participacion-de-ciahn-atacama-en-congreso-chileno-de-paleontologia-2022-en-san-vicente-de-tagua-tagua/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/importante-participacion-de-ciahn-atacama-en-congreso-chileno-de-paleontologia-2022-en-san-vicente-de-tagua-tagua/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2728
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=2728 to https://www.ciahn.cl/congreso-futuro-atacama-2023/
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2705
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=2705 to https://www.ciahn.cl/fosiles-confirman-la-presencia-de-tiburon-azul-en-la-costa-de-caldera-hace-millones-de-anos/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/fosiles-confirman-la-presencia-de-tiburon-azul-en-la-costa-de-caldera-hace-millones-de-anos/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/fosiles-confirman-la-presencia-de-tiburon-azul-en-la-costa-de-caldera-hace-millones-de-anos/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=2668
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=2668 to https://www.ciahn.cl/exitosa-participacion-comunitaria-en-conmemoracion-del-centenario-del-terremoto-y-tsunami-de-atacama-1922/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/exitosa-participacion-comunitaria-en-conmemoracion-del-centenario-del-terremoto-y-tsunami-de-atacama-1922/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/exitosa-participacion-comunitaria-en-conmemoracion-del-centenario-del-terremoto-y-tsunami-de-atacama-1922/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1382
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=1382 to https://www.ciahn.cl/ministro-de-ciencias-visito-el-centro-cultural-en-caldera/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/ministro-de-ciencias-visito-el-centro-cultural-en-caldera/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/ministro-de-ciencias-visito-el-centro-cultural-en-caldera/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1340
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=1340 to https://www.ciahn.cl/ballenas-perezosos-megalodones-el-inagotable-registro-fosil-del-parque-paleontologico-de-caldera-ahora-sera-preservado/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/ballenas-perezosos-megalodones-el-inagotable-registro-fosil-del-parque-paleontologico-de-caldera-ahora-sera-preservado/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/ballenas-perezosos-megalodones-el-inagotable-registro-fosil-del-parque-paleontologico-de-caldera-ahora-sera-preservado/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1310
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=1310 to https://www.ciahn.cl/un-diente-de-tiburon-sierra-de-hace-26-millones-de-anos-reabre-el-pasado-tropical-de-chile/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/un-diente-de-tiburon-sierra-de-hace-26-millones-de-anos-reabre-el-pasado-tropical-de-chile/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/un-diente-de-tiburon-sierra-de-hace-26-millones-de-anos-reabre-el-pasado-tropical-de-chile/)
+18:39:37	Warning: 	Moved Permanently for https://www.ciahn.cl/?p=1388
+18:39:37	Warning: 	File has moved from https://www.ciahn.cl/?p=1388 to https://www.ciahn.cl/patrimonio-paleontologico-de-gran-valor-sera-preservado-y-estudiado-en-la-region-de-atacama/
+18:39:37	Error: 	"Bad Request" (400) at link https://www.ciahn.cl/patrimonio-paleontologico-de-gran-valor-sera-preservado-y-estudiado-en-la-region-de-atacama/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='1' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 (from https://www.ciahn.cl/patrimonio-paleontologico-de-gran-valor-sera-preservado-y-estudiado-en-la-region-de-atacama/)
+
+HTTrack Website Copier/3.49-6 mirror complete in 11 minutes 43 seconds : 854 links scanned, 749 files written (283513353 bytes overall) [261891618 bytes received at 372534 bytes/sec], 25988576 bytes transferred using HTTP compression in 83 files, ratio 10%, 8.4 requests per connection
+(32 errors, 142 warnings, 0 messages)
